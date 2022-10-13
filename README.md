@@ -1,4 +1,6 @@
 - 👋 Olá, Sou @LucasMaboni
-- 👀 interessado em Hardware, mas pratico programação também
-      Tive contato com as seguintes linguagens: C#, Python e JavaSript
+- 👀 Amo tecnologia
+      Conhecimentos básicos em MySql e MongoDB
+      Linguagens de programação já utilizadas: C#, Python e JavaSript
+      ⚙ Afinidade em Python
 - 
